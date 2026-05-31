@@ -1,0 +1,14 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+.idea
+intellij.kotlin.base.codeInsight.minimal.xml
+__index__
+intellij.kotlin.base.resources.xml
+intellij.kotlin.formatter.minimal.xml
+intellij.kotlin.highlighting.minimal.xml
+KotlinIconMappings.json
+org/jetbrains
+META-INF
+icons
+messages
