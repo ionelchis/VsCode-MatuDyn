@@ -1,0 +1,3 @@
+[templates.vscode]
+input_path = '~/.config/matugen/templates/vscode-theme.json.template'
+output_path = '~/.vscode-oss/extensions/local.matugen-theme-0.0.1/themes/matugen-theme.json'
