@@ -1,0 +1,1 @@
+{ "name": "matugen-theme", "displayName": "Matugen Theme", "description": "Dynamic Matugen-generated theme", "version": "0.0.1", "publisher": "local", "engines": { "vscode": "^1.80.0" }, "categories": [ "Themes" ], "contributes": { "themes": [ { "label": "Matugen Dynamic", "uiTheme": "vs-dark", "path": "./themes/matugen-theme.json" } ] } }

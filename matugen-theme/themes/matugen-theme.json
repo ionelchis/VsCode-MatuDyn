@@ -1,0 +1,56 @@
+{
+  "name": "Matugen Dynamic",
+  "type": "dark",
+
+  "colors": {
+    "editor.background": "#18120c",
+    "editor.foreground": "#eee0d5",
+
+    "activityBar.background": "#251e17",
+    "activityBar.foreground": "#eee0d5",
+
+    "sideBar.background": "#18120c",
+    "sideBar.foreground": "#eee0d5",
+
+    "titleBar.activeBackground": "#251e17",
+    "titleBar.activeForeground": "#eee0d5",
+
+    "statusBar.background": "#f9ba72",
+    "statusBar.foreground": "#482a00",
+
+    "editorCursor.foreground": "#f9ba72",
+
+    "button.background": "#f9ba72",
+    "button.foreground": "#482a00",
+
+    "list.activeSelectionBackground": "#663d00",
+    "list.activeSelectionForeground": "#ffddba"
+  },
+
+  "tokenColors": [
+    {
+      "scope": ["comment"],
+      "settings": {
+        "foreground": "#9d8e81"
+      }
+    },
+    {
+      "scope": ["string"],
+      "settings": {
+        "foreground": "#bdcd9d"
+      }
+    },
+    {
+      "scope": ["keyword"],
+      "settings": {
+        "foreground": "#f9ba72"
+      }
+    },
+    {
+      "scope": ["entity.name.function"],
+      "settings": {
+        "foreground": "#e0c1a3"
+      }
+    }
+  ]
+}

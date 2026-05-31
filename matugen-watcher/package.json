@@ -1,0 +1,16 @@
+{
+  "name": "matugen-watcher",
+  "displayName": "Matugen Theme Watcher",
+  "version": "0.0.1",
+  "publisher": "local",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "activationEvents": [
+    "onStartupFinished"
+  ],
+  "main": "./extension.js",
+  "contributes": {},
+  "scripts": {},
+  "categories": ["Other"]
+}
